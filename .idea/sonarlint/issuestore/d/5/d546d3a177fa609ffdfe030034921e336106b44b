@@ -1,0 +1,6 @@
+
+y	java:S116	"]Rename this field "CAPACIDADE_DEFAULT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã™å8Ïå‚±Å1
+>
+java:S1170	"!Make this final field static too.(Ã™å8Ğå‚±Å1
+Z
+java:S1854?"=Remove this useless assignment to local variable "!unknown!".(âšŸ¯8Ÿ‚ô°Å1

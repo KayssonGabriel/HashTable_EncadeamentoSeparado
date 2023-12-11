@@ -1,0 +1,10 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıĞç»8•²°Å1
+G
+java:S1068"*Remove this unused "chaves" private field.(¶ÆïĞ8ô€¤±Å1
+M
+java:S1068"+Remove this unused "valores" private field.(ø±·ûÿÿÿÿ8ô€¤±Å1
+D
+java:S1068"(Remove this unused "size" private field.(‰öÆ)8ô€¤±Å1
+M
+java:S1068"0Remove this unused "fatorDeCarga" private field.(ªÓ¤±8ô€¤±Å1
